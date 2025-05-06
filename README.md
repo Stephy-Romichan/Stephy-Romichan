@@ -25,9 +25,9 @@ I’m a passionate Data Analytics Engineer with a background in Computer Science
 - Engineered ETL pipelines transforming over 23 million records from SQL to **Elasticsearch**, reducing indexing time by 30% and enhancing distributed search accuracy by 40%.
 - Integrated **NLP techniques** for intelligent search applications, improving search precision by 35% and enabling better user experience in data discovery.
 ---
+
 ## Technical Skills 
 
-<h4> 
 🛠️ <b>Software/Tools:</b> Power BI, Tableau, Microsoft Office Suite, Jupyter Lab, Apache Airflow, Docker, Elasticsearch, Logstash, Kibana, Anaconda, Database Management, CloudWatch<br>  
 📚 <b>Libraries & Frameworks:</b> Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, PySpark, SQLAlchemy<br>  
 🤖 <b>Machine Learning Skills:</b> Data Processing, Data Cleaning, Feature Engineering, Outlier Detection, Predictive Analytics, Statistical Modeling, NLP, ETL Pipeline Development<br>  
@@ -42,7 +42,6 @@ I’m a passionate Data Analytics Engineer with a background in Computer Science
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
-</h4>
 
 
 ---
@@ -53,8 +52,6 @@ When I'm not immersed in data analytics, I enjoy staying active as a **fitness e
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephy-Romichan&layout=compact&hide=html,css&langs_count=6&theme=radical)
-
-
 [![Stephy's github stats](https://github-readme-stats.vercel.app/api?username=Stephy-Romichan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Stephy-Romichan/github-readme-stats)
 
 
