@@ -6,7 +6,7 @@
 ## Profile
 I’m a passionate Data Analytics Engineer with a background in Computer Science and Engineering, currently pursuing a Master’s in Data Analytics Engineering at Northeastern University. My expertise spans data processing, machine learning, and cloud-native architecture, with hands-on experience in AWS, Docker, and distributed systems. I leverage cloud platforms to build scalable, efficient, and secure data solutions—enabling real-time analytics, optimized ETL pipelines, and actionable insights. Always eager to innovate, I thrive on applying emerging technologies to solve complex, data-driven challenges.
 
-### 📈 Currently Learning 
+### Currently Learning 
 - **Data Mining in engineering** : Data Visualization, Feature Engineering, Dimension Reduction, Performance Evaluation, Regressions, Decision Trees, Neural Networks
 - **Advanced SQL** and Data Warehousing
 - **Docker & Kubernetes** for containerization and deployment
@@ -28,11 +28,11 @@ I’m a passionate Data Analytics Engineer with a background in Computer Science
 
 ## Technical Skills 
 
-🛠️ <b>Software/Tools:</b> Power BI, Tableau, Microsoft Office Suite, Jupyter Lab, Apache Airflow, Docker, Elasticsearch, Logstash, Kibana, Anaconda, Database Management, CloudWatch<br>  
-📚 <b>Libraries & Frameworks:</b> Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, PySpark, SQLAlchemy<br>  
-🤖 <b>Machine Learning Skills:</b> Data Processing, Data Cleaning, Feature Engineering, Outlier Detection, Predictive Analytics, Statistical Modeling, NLP, ETL Pipeline Development<br>  
-☁️ <b>Cloud & DevOps:</b> AWS (S3, Lambda, CloudFormation, CodePipeline, API Gateway), OpenShift, Jenkins, Kubernetes, CI/CD, Serverless Architecture<br>  
-🖥️ <b>Languages:</b> 
+<b>Software/Tools:</b> Power BI, Tableau, Microsoft Office Suite, Jupyter Lab, Apache Airflow, Docker, Elasticsearch, Logstash, Kibana, Anaconda, Database Management, CloudWatch<br>  
+<b>Libraries & Frameworks:</b> Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, PySpark, SQLAlchemy<br>  
+<b>Machine Learning Skills:</b> Data Processing, Data Cleaning, Feature Engineering, Outlier Detection, Predictive Analytics, Statistical Modeling, NLP, ETL Pipeline Development<br>  
+<b>Cloud & DevOps:</b> AWS (S3, Lambda, CloudFormation, CodePipeline, API Gateway), OpenShift, Jenkins, Kubernetes, CI/CD, Serverless Architecture<br>  
+<b>Languages:</b> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -52,6 +52,7 @@ When I'm not immersed in data analytics, I enjoy staying active as a **fitness e
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephy-Romichan&layout=compact&hide=html,css&langs_count=6&theme=radical)
+
 [![Stephy's github stats](https://github-readme-stats.vercel.app/api?username=Stephy-Romichan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Stephy-Romichan/github-readme-stats)
 
 
