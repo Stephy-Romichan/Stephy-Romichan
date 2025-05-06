@@ -1,6 +1,6 @@
 
 
-### Hi! I'm Stephy Romichan
+## Hi! I'm Stephy Romichan
 
 ## Profile
 I’m a passionate Data Analytics Engineer with a background in Computer Science and Engineering, currently pursuing a Master’s in Data Analytics Engineering at Northeastern University. My expertise spans data processing, machine learning, and cloud-native architecture, with hands-on experience in AWS, Docker, and distributed systems. I leverage cloud platforms to build scalable, efficient, and secure data solutions—enabling real-time analytics, optimized ETL pipelines, and actionable insights. Always eager to innovate, I thrive on applying emerging technologies to solve complex, data-driven challenges.
