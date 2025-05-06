@@ -52,7 +52,8 @@ When I'm not immersed in data analytics, I enjoy staying active as a **fitness e
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephy-Romichan&layout=compact&hide=html,css&langs_count=6&theme=radical)
-[![Stephy's github stats](https://github-readme-stats.vercel.app/api?username=Stephy-Romichan&layout=compact&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Stephy-Romichan/github-readme-stats)
+![Stephy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephy-Romichan&layout=compact&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
 
 
 <h3 align="left">Connect with me:</h3>
