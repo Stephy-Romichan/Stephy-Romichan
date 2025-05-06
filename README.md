@@ -7,9 +7,9 @@
 I’m a passionate Data Analytics Engineer with a background in Computer Science and Engineering, currently pursuing a Master’s in Data Analytics Engineering at Northeastern University. My expertise spans data processing, machine learning, and cloud-native architecture, with hands-on experience in AWS, Docker, and distributed systems. I leverage cloud platforms to build scalable, efficient, and secure data solutions—enabling real-time analytics, optimized ETL pipelines, and actionable insights. Always eager to innovate, I thrive on applying emerging technologies to solve complex, data-driven challenges.
 
 ### Currently Learning 
+- **AWS Data Engineering**
 - **Data Mining in engineering** : Data Visualization, Feature Engineering, Dimension Reduction, Performance Evaluation, Regressions, Decision Trees, Neural Networks
 - **Advanced SQL** and Data Warehousing
-- **Docker & Kubernetes** for containerization and deployment
 - **Big Data Technologies**: Exploring Apache Kafka and Spark for scalable data processing and Apache Airflow for Data Orchestration
 
 ## Professional Experience
