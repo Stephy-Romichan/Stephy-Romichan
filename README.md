@@ -1,15 +1,12 @@
 
 
-### <img alt="handwavegif" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' align="justify"/> Hello There! I'm Dennis Mathew Jose.
-![profile count](https://komarev.com/ghpvc/?username=dennismathewjose&color=red)&nbsp;
-[![GitHub dennismathewjose](https://img.shields.io/github/followers/dennismathewjose?label=follow&style=social)](https://github.com/dennismathewjose)&nbsp;
+### Hi! I'm Stephy Romichan.
+[![GitHub dennismathewjose](https://img.shields.io/github/followers/dennismathewjose?label=follow&style=social)](https://github.com/Stephy-Romichan)&nbsp;
 
 ## Profile
-A passionate Data Analytics/ML Engineer with a background in Electronics and Communication Engineering. Currently pursuing a Master’s degree in Data Analytics Engineering at Northeastern University, I am focused on solving complex problems using data-driven approaches. My expertise lies in machine learning, data processing, and database management, and I am always eager to learn and apply new technologies.
+I’m a passionate Data Analytics Engineer with a background in Computer Science and Engineering, currently pursuing a Master’s in Data Analytics Engineering at Northeastern University. My expertise spans data processing, machine learning, and cloud-native architecture, with hands-on experience in AWS, Docker, and distributed systems. I leverage cloud platforms to build scalable, efficient, and secure data solutions—enabling real-time analytics, optimized ETL pipelines, and actionable insights. Always eager to innovate, I thrive on applying emerging technologies to solve complex, data-driven challenges.
 
-### 📈 Currently Learning | [Blog](https://medium.com/@dennismjose)
-- **Applied NLP** : Language Models & N-Grams, Vector Semantics & Embeddings, Neural Networks for NLP, Transformers & Attention Mechanisms , Machine Translation, Summarization, &
-Generation
+### 📈 Currently Learning 
 - **Data Mining in engineering** : Data Visualization, Feature Engineering, Dimension Reduction, Performance Evaluation, Regressions, Decision Trees, Neural Networks
 - **Advanced SQL** and Data Warehousing
 - **Docker & Kubernetes** for containerization and deployment
@@ -17,15 +14,16 @@ Generation
 
 ## Professional Experience
 
-### Oracle, Bengaluru, India  
-**Associate Consultant**  
+### IBM, Bengaluru, India  
+**Cloud Full Stack Developer/DevOps**  
 *July 2023 – July 2024*
 
-- Customized Oracle banking applications using **JAVA** and **PL/SQL**, enhancing system performance and aligning with client-specific requirements.
-- Developed custom solutions within the **OBPM module** of **Oracle Flexcube** to automate **MX payment messages**, improving transaction efficiency and compliance.
-- Collaborated with cross-functional teams to analyze client requirements and deliver targeted solutions for seamless integration.
-- Managed **Oracle Database systems** to ensure high availability and performance for critical financial applications.
-
+- Built and deployed **7+ cloud-native APIs** in production, transforming legacy systems into microservices using DevOps and containerization, reducing operational overhead and deployment time by 30–50%.
+- Designed scalable AWS infrastructure with **CloudFormation, Lambda, API Gateway** and multi-region deployments—cutting infrastructure costs by 25% while boosting system uptime and reliability.
+- Automated **CI/CD pipelines** using Tekton and AWS services on OpenShift, improving release efficiency and accelerating delivery cycles.
+- Optimized **MySQL** database operations, achieving up to 95% reduction in query response time and significantly enhancing application performance for high-traffic financial systems.
+- Engineered ETL pipelines transforming over 23 million records from SQL to **Elasticsearch**, reducing indexing time by 30% and enhancing distributed search accuracy by 40%.
+- Integrated **NLP techniques** for intelligent search applications, improving search precision by 35% and enabling better user experience in data discovery.
 ---
 ## Technical Skills 
 
@@ -59,14 +57,14 @@ A content-based movie recommendation system leveraging **Sentence-BERT** to anal
 ---
 
 ## Outside of Work
-When I'm not immersed in data analytics, I enjoy exploring my interests in **Formula 1**, solving **Sudoku puzzles**, and reading & writing **technical blogs**.
+When I'm not immersed in data analytics, I enjoy staying active as a **fitness enthusiast**, engaging in competitive sports, and spending time learning **new languages** to broaden my perspective and challenge myself in new ways.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennismathewjose&layout=compact&hide=html,css&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephy-Romichan&layout=compact&hide=html,css&langs_count=6&theme=radical)
 
 
-[![Dennis's github stats](https://github-readme-stats.vercel.app/api?username=dennismathewjose&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dennismathewjose/github-readme-stats)
+[![Dennis's github stats](https://github-readme-stats.vercel.app/api?username=Stephy-Romichan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Stephy-Romichan/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
