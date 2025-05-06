@@ -28,10 +28,10 @@ I’m a passionate Data Analytics Engineer with a background in Computer Science
 
 ## Technical Skills 
 
-<b>Software/Tools:</b> Power BI, Tableau, Microsoft Office Suite, Jupyter Lab, Apache Airflow, Docker, Elasticsearch, Logstash, Kibana, Anaconda, Database Management, CloudWatch<br>  
+<b>Software/Tools:</b> Power BI, Tableau, Jupyter Lab, Apache Airflow, Elasticsearch, Logstash, Kibana, Database Management<br>  
 <b>Libraries & Frameworks:</b> Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, PySpark, SQLAlchemy<br>  
 <b>Machine Learning Skills:</b> Data Processing, Data Cleaning, Feature Engineering, Outlier Detection, Predictive Analytics, Statistical Modeling, NLP, ETL Pipeline Development<br>  
-<b>Cloud & DevOps:</b> AWS (S3, Lambda, CloudFormation, CodePipeline, API Gateway), OpenShift, Jenkins, Kubernetes, CI/CD, Serverless Architecture<br>  
+<b>Cloud & DevOps:</b> AWS (S3, Lambda, CloudFormation, CodePipeline, API Gateway, CloudWatch), OpenShift, Docker, Kubernetes, CI/CD, Serverless Architecture<br>  
 <b>Languages:</b> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
